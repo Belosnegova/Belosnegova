@@ -6,7 +6,7 @@ val Belosnegova = developer {
     about {
         name = "Ksenia"
         company = JetBrains
-        role = Marketing_Manager
+        role = Kotlin Education Advocate
     }
     links {
         twitter = "belosnegova"
